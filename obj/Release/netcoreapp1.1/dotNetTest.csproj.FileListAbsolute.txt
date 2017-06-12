@@ -1,0 +1,8 @@
+/Users/sgueorguiev/Dev/dotNetTest/bin/Release/netcoreapp1.1/dotNetTest.deps.json
+/Users/sgueorguiev/Dev/dotNetTest/bin/Release/netcoreapp1.1/dotNetTest.runtimeconfig.json
+/Users/sgueorguiev/Dev/dotNetTest/bin/Release/netcoreapp1.1/dotNetTest.runtimeconfig.dev.json
+/Users/sgueorguiev/Dev/dotNetTest/bin/Release/netcoreapp1.1/dotNetTest.dll
+/Users/sgueorguiev/Dev/dotNetTest/bin/Release/netcoreapp1.1/dotNetTest.pdb
+/Users/sgueorguiev/Dev/dotNetTest/obj/Release/netcoreapp1.1/dotNetTest.AssemblyInfo.cs
+/Users/sgueorguiev/Dev/dotNetTest/obj/Release/netcoreapp1.1/dotNetTest.dll
+/Users/sgueorguiev/Dev/dotNetTest/obj/Release/netcoreapp1.1/dotNetTest.pdb
